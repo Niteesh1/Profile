@@ -36,20 +36,20 @@
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://niteesh1.github.io/Profile/">View Demo</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
+    <a href="https://niteesh1.github.io/Profile/">Report Bug</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
+    <a href="https://niteesh1.github.io/Profile/discussions">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
+  <a href="https://niteesh1.github.io/Profile/">
     <img src="https://github.com/arifszn/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
   </a>
   <br/>
-  <a href="#arifszn"><img src="https://github.com/arifszn/gitprofile/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
+  <a href="#arifszn"><img src="https://niteesh1.github.io/Profile//assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
 </p>
 
 **GitProfile** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and GitProfile will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
@@ -71,7 +71,7 @@
 ✓ [Projects Section](#projects)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://niteesh1.github.io/Profile/)**.
 
 <p align="center">
   <img src="https://github.com/arifszn/gitprofile/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
@@ -110,7 +110,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
   }
   ```
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
+<!-- - **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
 
 Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `gitprofile.config.ts` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
@@ -691,4 +691,4 @@ To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofil
 
 ## 📄 License
 
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE) -->
