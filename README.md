@@ -1,4 +1,4 @@
-<br/>
+<!-- <br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45073703/177566625-9b84e793-4559-4475-ba54-8d3d5f4123d4.png" width="35%">
@@ -108,7 +108,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
     base: '/',
     // ...
   }
-  ```
+  ``` -->
 
 <!-- - **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
 
